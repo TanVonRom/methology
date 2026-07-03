@@ -384,9 +384,8 @@ or board/investor communications?
 |---|---|---|---|
 | MDF Application Support | Level 2+ | CHF 1'500 | Per application end-to-end |
 | Partner Onboarding | Level 2+ | CHF 2'500 | Onboarding into one new vendor programme |
-| Monthly Partner Retainer | Level 3+ | CHF 2'000/Mt. | Ongoing management of one partner relationship |
 | Collaboration Facilitation | Level 3+ | CHF 1'800 | Introduction + first conversations with 2–3 partners |
-| Neurodiversity in Business | Tania | CHF 1'500 | Half-day workshop + team report |
+| Executive Functions in Business | Tania | CHF 1'500 | Half-day workshop + team report |
 
 ---
 
